@@ -8,4 +8,4 @@ itsdangerous>=2.2.0
 PySocks>=1.7.1
 # TLS: certifi musi być aktualny (incydent eMudhra/emSign CA, X 2026).
 # requests używa certifi do weryfikacji certyfikatów - stara wersja = podatność.
-certifi>=2026.10.23
+certifi>=2026.11.20
